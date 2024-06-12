@@ -1,0 +1,466 @@
+[
+  {
+    "gambar": "angsa.jpg",
+    "nama": "angsa"
+  },
+  {
+    "gambar": "anjing.jpg",
+    "nama": "anjing"
+  },
+  {
+    "gambar": "anjing_laut.jpg",
+    "nama": "anjing-laut"
+  },
+  {
+    "gambar": "anoa.jpg",
+    "nama": "anoa"
+  },
+  {
+    "gambar": "arwana.jpg",
+    "nama": "arwana"
+  },
+  {
+    "gambar": "ayam_betina.jpg",
+    "nama": "ayam-betina"
+  },
+  {
+    "gambar": "ayam_jantan.jpg",
+    "nama": "ayam-jantan"
+  },
+  {
+    "gambar": "ayam_kalkun.JPG",
+    "nama": "ayam-kalkun.JPG"
+  },
+  {
+    "gambar": "babi.jpg",
+    "nama": "babi"
+  },
+  {
+    "gambar": "badak.jpg",
+    "nama": "badak"
+  },
+  {
+    "gambar": "bangau.jpg",
+    "nama": "bangau"
+  },
+  {
+    "gambar": "banteng.jpg",
+    "nama": "banteng"
+  },
+  {
+    "gambar": "bebek.jpg",
+    "nama": "bebek"
+  },
+  {
+    "gambar": "bekicot.jpg",
+    "nama": "bekicot"
+  },
+  {
+    "gambar": "belalang.jpg",
+    "nama": "belalang"
+  },
+  {
+    "gambar": "belibis.jpg",
+    "nama": "belibis"
+  },
+  {
+    "gambar": "belut.jpg",
+    "nama": "belut"
+  },
+  {
+    "gambar": "beo.jpg",
+    "nama": "beo"
+  },
+  {
+    "gambar": "beruang.jpg",
+    "nama": "beruang"
+  },
+  {
+    "gambar": "beruang_kutub.jpg",
+    "nama": "beruang-kutub"
+  },
+  {
+    "gambar": "biawak.jpg",
+    "nama": "biawak"
+  },
+  {
+    "gambar": "bintang_laut.jpg",
+    "nama": "bintang-laut"
+  },
+  {
+    "gambar": "biri_biri.jpg",
+    "nama": "biri-biri"
+  },
+  {
+    "gambar": "bison.jpg",
+    "nama": "bison"
+  },
+  {
+    "gambar": "buaya.jpg",
+    "nama": "buaya"
+  },
+  {
+    "gambar": "bunglon.jpg",
+    "nama": "bunglon"
+  },
+  {
+    "gambar": "burung_beo.jpg",
+    "nama": "burung-beo"
+  },
+  {
+    "gambar": "burung_hantu.jpg",
+    "nama": "burung-hantu"
+  },
+  {
+    "gambar": "burung_unta.jpg",
+    "nama": "burung-unta"
+  },
+  {
+    "gambar": "capung.jpg",
+    "nama": "capung"
+  },
+  {
+    "gambar": "cendrawasih.jpg",
+    "nama": "cendrawasih"
+  },
+  {
+    "gambar": "cicak.jpg",
+    "nama": "cicak"
+  },
+  {
+    "gambar": "citah.jpg",
+    "nama": "citah"
+  },
+  {
+    "gambar": "cumi_cumi.jpg",
+    "nama": "cumi-cumi"
+  },
+  {
+    "gambar": "domba.jpg",
+    "nama": "domba"
+  },
+  {
+    "gambar": "elang.jpg",
+    "nama": "elang"
+  },
+  {
+    "gambar": "gajah.jpg",
+    "nama": "gajah"
+  },
+  {
+    "gambar": "gorila.jpg",
+    "nama": "gorila"
+  },
+  {
+    "gambar": "gurita.jpg",
+    "nama": "gurita"
+  },
+  {
+    "gambar": "harimau.jpg",
+    "nama": "harimau"
+  },
+  {
+    "gambar": "hiena.jpg",
+    "nama": "hiena"
+  },
+  {
+    "gambar": "hiu.jpg",
+    "nama": "hiu"
+  },
+  {
+    "gambar": "hyena.jpg",
+    "nama": "hyena"
+  },
+  {
+    "gambar": "iguana.jpg",
+    "nama": "iguana"
+  },
+  {
+    "gambar": "ikan.jpg",
+    "nama": "ikan"
+  },
+  {
+    "gambar": "ikan_arwana.jpg",
+    "nama": "ikan-arwana"
+  },
+  {
+    "gambar": "ikan_badut.jpg",
+    "nama": "ikan-badut"
+  },
+  {
+    "gambar": "ikan_cupang.jpg",
+    "nama": "ikan-cupang"
+  },
+  {
+    "gambar": "ikan_hiu.jpg",
+    "nama": "ikan-hiu"
+  },
+  {
+    "gambar": "itik.jpg",
+    "nama": "itik"
+  },
+  {
+    "gambar": "jangkrik.jpg",
+    "nama": "jangkrik"
+  },
+  {
+    "gambar": "jerapah.JPG",
+    "nama": "jerapah.JPG"
+  },
+  {
+    "gambar": "kadal.jpg",
+    "nama": "kadal"
+  },
+  {
+    "gambar": "kakatua.jpg",
+    "nama": "kakatua"
+  },
+  {
+    "gambar": "kalajengking.jpg",
+    "nama": "kalajengking"
+  },
+  {
+    "gambar": "kambing.jpg",
+    "nama": "kambing"
+  },
+  {
+    "gambar": "kanguru.jpg",
+    "nama": "kanguru"
+  },
+  {
+    "gambar": "katak.jpg",
+    "nama": "katak"
+  },
+  {
+    "gambar": "kecoa.jpg",
+    "nama": "kecoa"
+  },
+  {
+    "gambar": "keledai.jpg",
+    "nama": "keledai"
+  },
+  {
+    "gambar": "kelelawar.jpg",
+    "nama": "kelelawar"
+  },
+  {
+    "gambar": "kelinci.jpg",
+    "nama": "kelinci"
+  },
+  {
+    "gambar": "kelomang.jpg",
+    "nama": "kelomang"
+  },
+  {
+    "gambar": "keong.jpg",
+    "nama": "keong"
+  },
+  {
+    "gambar": "kepiting.jpg",
+    "nama": "kepiting"
+  },
+  {
+    "gambar": "kera.jpg",
+    "nama": "kera"
+  },
+  {
+    "gambar": "kerang.jpg",
+    "nama": "kerang"
+  },
+  {
+    "gambar": "kerbau.jpg",
+    "nama": "kerbau"
+  },
+  {
+    "gambar": "koala.jpg",
+    "nama": "koala"
+  },
+  {
+    "gambar": "komodo.jpg",
+    "nama": "komodo"
+  },
+  {
+    "gambar": "kucing.JPG",
+    "nama": "kucing.JPG"
+  },
+  {
+    "gambar": "kuda.jpg",
+    "nama": "kuda"
+  },
+  {
+    "gambar": "kudanil.jpg",
+    "nama": "kudanil"
+  },
+  {
+    "gambar": "kuda_laut.jpg",
+    "nama": "kuda-laut"
+  },
+  {
+    "gambar": "kupu_kupu.jpg",
+    "nama": "kupu-kupu"
+  },
+  {
+    "gambar": "kura_kura.jpg",
+    "nama": "kura-kura"
+  },
+  {
+    "gambar": "laba_laba.jpg",
+    "nama": "laba-laba"
+  },
+  {
+    "gambar": "lalat.jpg",
+    "nama": "lalat"
+  },
+  {
+    "gambar": "landak.jpg",
+    "nama": "landak"
+  },
+  {
+    "gambar": "laron.jpg",
+    "nama": "laron"
+  },
+  {
+    "gambar": "lebah.jpg",
+    "nama": "lebah"
+  },
+  {
+    "gambar": "lele.jpg",
+    "nama": "lele"
+  },
+  {
+    "gambar": "lobster.jpg",
+    "nama": "lobster"
+  },
+  {
+    "gambar": "lumba_lumba.jpg",
+    "nama": "lumba-lumba"
+  },
+  {
+    "gambar": "luwak.jpg",
+    "nama": "luwak"
+  },
+  {
+    "gambar": "marmut.jpg",
+    "nama": "marmut"
+  },
+  {
+    "gambar": "merak.jpg",
+    "nama": "merak"
+  },
+  {
+    "gambar": "merpati.jpg",
+    "nama": "merpati"
+  },
+  {
+    "gambar": "monyet.jpg",
+    "nama": "monyet"
+  },
+  {
+    "gambar": "nyamuk.jpg",
+    "nama": "nyamuk"
+  },
+  {
+    "gambar": "orang_utan.jpg",
+    "nama": "orang-utan"
+  },
+  {
+    "gambar": "panda.jpg",
+    "nama": "panda"
+  },
+  {
+    "gambar": "paus.jpg",
+    "nama": "paus"
+  },
+  {
+    "gambar": "penguin.jpg",
+    "nama": "penguin"
+  },
+  {
+    "gambar": "penyu.jpg",
+    "nama": "penyu"
+  },
+  {
+    "gambar": "rayap.jpg",
+    "nama": "rayap"
+  },
+  {
+    "gambar": "rubah.jpg",
+    "nama": "rubah"
+  },
+  {
+    "gambar": "rusa.jpg",
+    "nama": "rusa"
+  },
+  {
+    "gambar": "sapi.JPG",
+    "nama": "sapi.JPG"
+  },
+  {
+    "gambar": "semut.jpg",
+    "nama": "semut"
+  },
+  {
+    "gambar": "serigala.jpg",
+    "nama": "serigala"
+  },
+  {
+    "gambar": "singa.jpg",
+    "nama": "singa"
+  },
+  {
+    "gambar": "siput.jpg",
+    "nama": "siput"
+  },
+  {
+    "gambar": "tapir.jpg",
+    "nama": "tapir"
+  },
+  {
+    "gambar": "tawon.jpg",
+    "nama": "tawon"
+  },
+  {
+    "gambar": "tokek.jpg",
+    "nama": "tokek"
+  },
+  {
+    "gambar": "tomcat.jpg",
+    "nama": "tomcat"
+  },
+  {
+    "gambar": "tupai.jpg",
+    "nama": "tupai"
+  },
+  {
+    "gambar": "ubur_ubur.jpg",
+    "nama": "ubur-ubur"
+  },
+  {
+    "gambar": "udang.jpg",
+    "nama": "udang"
+  },
+  {
+    "gambar": "ular.jpg",
+    "nama": "ular"
+  },
+  {
+    "gambar": "undur_undur.jpg",
+    "nama": "undur-undur"
+  },
+  {
+    "gambar": "unta.jpg",
+    "nama": "unta"
+  },
+  {
+    "gambar": "walet.jpg",
+    "nama": "walet"
+  },
+  {
+    "gambar": "yuyu.jpg",
+    "nama": "yuyu"
+  },
+  {
+    "gambar": "zebra.jpg",
+    "nama": "zebra"
+  }
+]
